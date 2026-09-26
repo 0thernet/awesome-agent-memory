@@ -105,6 +105,13 @@
     "repo": "neuml/txtai"
   },
   {
+    "name": "Oh",
+    "url": "https://github.com/hraness/oh",
+    "category": "frameworks",
+    "desc": "Open-source memory for agents that stores each fact with its sources and every change in a replayable history; TypeScript SDK, CLI, and Agent Skill over a local SQLite file.",
+    "repo": "hraness/oh"
+  },
+  {
     "name": "LlamaIndex Memory",
     "url": "https://github.com/run-llama/llama_index",
     "category": "native",
