@@ -108,7 +108,7 @@
     "name": "Oh",
     "url": "https://github.com/hraness/oh",
     "category": "frameworks",
-    "desc": "Open-source memory for agents that stores each fact with its sources and every change in a replayable history; TypeScript SDK, CLI, and Agent Skill over a local SQLite file.",
+    "desc": "Memory framework that stores each fact with the sources it rests on, keeps every change in an append-only history you can replay, and returns the evidence behind each answer; TypeScript SDK, CLI, and Agent Skill over one local SQLite file.",
     "repo": "hraness/oh"
   },
   {
